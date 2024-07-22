@@ -17,7 +17,7 @@ This project provides the backend for a face recognition application. It is buil
 
 2. Navigate to the project directory:
     ```sh
-    cd FaceRecognitionBackend-master
+    cd FaceRecognitionBackend
     ```
 
 3. Install the dependencies:
