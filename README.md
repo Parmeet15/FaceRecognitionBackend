@@ -12,7 +12,7 @@ This project provides the backend for a face recognition application. It is buil
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    https://github.com/Parmeet15/FaceRecognitionBackend.git
     ```
 
 2. Navigate to the project directory:
